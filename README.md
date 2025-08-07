@@ -306,7 +306,7 @@ If you use DeepEVD in your research, please cite our paper:
   title={DeepEVD: Deep Learning for Spatio-Temporal Epidemiological Forecasting},
   author={Author Name and Co-authors},
   journal={Journal Name},
-  year={2024},
+  year={2025},
   volume={XX},
   pages={XXX-XXX},
   doi={10.xxxx/xxxxx}
@@ -319,7 +319,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- West African Health Organization for providing epidemiological data
+- World Health Organization (WHO) for providing epidemiological data
+- International Organisation for Migration (IOM-UN Migration Agency) for providing Flow Monitoring Points (FMPs) data
 - Research collaborators from Guinea, Sierra Leone, and Liberia
 - Open-source community for foundational tools and libraries
 
